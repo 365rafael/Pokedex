@@ -1,0 +1,16 @@
+Estrutura do Projeto:
+index.html: Este será o arquivo principal da sua aplicação, onde você irá criar a estrutura básica da página web.
+
+styles: Esta pasta conterá todos os arquivos CSS relacionados ao estilo da sua aplicação.
+
+styles.css: Arquivo principal de estilos.
+scripts: Esta pasta conterá todos os arquivos JavaScript relacionados à funcionalidade da sua aplicação.
+
+script.js: Arquivo principal de scripts.
+images: Esta pasta conterá todas as imagens utilizadas na sua aplicação, como sprites de Pokémon.
+
+docs: Esta pasta conterá a documentação técnica e outros documentos relacionados ao projeto.
+
+README.md: Documentação principal do projeto, onde você pode explicar a finalidade, funcionalidades e instruções de uso da aplicação.
+
+LICENSE: Arquivo de licença do projeto, onde você pode especificar os termos de uso.
